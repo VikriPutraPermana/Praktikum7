@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+}
+img{
+    width: 200px;
+    margin: 1em 2em;
+}
